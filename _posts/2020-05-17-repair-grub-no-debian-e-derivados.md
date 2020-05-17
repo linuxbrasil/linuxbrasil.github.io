@@ -5,6 +5,7 @@ description: "Comandos simlpes para facilitar a restauração."
 date:   2020-05-17 17:25:00 -0300
 categories: debian
 by: 'Henry Jr'
+telegram: 'henryjr'
 icon: 'settings'
 questions:
   - question: 'Repair Grub no Debian e derivados'
