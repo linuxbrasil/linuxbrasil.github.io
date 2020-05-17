@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Administradores"
-url: "administradores"
+title: "Colaboradores"
+url: "colaboradores"
 content: "teste de criação de uma página estática."
 ---
 
