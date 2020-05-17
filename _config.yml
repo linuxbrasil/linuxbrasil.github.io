@@ -8,7 +8,7 @@
 # Site settings
 title: "Grupo Linux para todos"
 email: rmsaitam@gmail.com
-description: "Repositório para agregar posts do grupo do Telegram."
+description: "O objetivo do blog colaborativo é publicar posts dos possíveis problemas comuns e dúvidas dos membros no grupo https://t.me/LinuxParaTodos, assim basta enviar o link."
 baseurl: "/"
 url: "https://grupolinux.github.io/"
 twitter_username: "@blogcomputacao"
