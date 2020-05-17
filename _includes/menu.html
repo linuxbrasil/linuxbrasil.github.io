@@ -19,6 +19,9 @@
       {% for page in site.pages %}
 		  {% if page.title %}
 			  <a href="{{ page.url | prepend: site.baseurl }}">
+                  <div class="">
+                      <span class="feather-icon icon-{{ page.icon }}"></span>
+                  </div>
 				{{ page.title }}
 			  </a> |
 		  {% endif %}

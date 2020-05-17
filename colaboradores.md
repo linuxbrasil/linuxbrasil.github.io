@@ -2,6 +2,7 @@
 layout: page
 title: "Colaboradores"
 url: "colaboradores"
+icon: 'user-plus'
 content: "teste de criação de uma página estática."
 ---
 
