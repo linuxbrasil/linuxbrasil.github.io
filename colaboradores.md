@@ -7,7 +7,7 @@ content: "teste de criação de uma página estática."
 ---
 
 ### Administradores
-- <a href="https://t.me/Saitam10" target="_blank">Reginaldo [1]</a>
+- <a href="https://t.me/Saitam10" target="_blank">Reginaldo [2]</a>
 - <a href="https://t.me/Feolips" target="_blank">Felipe Vieira</a>
 - <a href="https://t.me/juliocst" target="_blank">Júlio César</a>
 - <a href="https://t.me/pherde" target="_blank">Fernando</a>
