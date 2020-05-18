@@ -9,7 +9,7 @@ telegram: '@Saitam10'
 icon: 'settings' 
 questions:
   - question: 'Howto de instalação do Arch Linux'
-    answer: '<p>Download da imagem ISO: magnet:?xt=urn:btih:f95c371d5609d15f6615139be84edbb5b94a79bc&dn=archlinux-2020.05.01-x86_64.iso&tr=udp://tracker.archlinux.org:6969&tr=http://tracker.archlinux.org:6969/announce</p>
+    answer: '<p>Download da imagem ISO: <a href="magnet:?xt=urn:btih:f95c371d5609d15f6615139be84edbb5b94a79bc&dn=archlinux-2020.05.01-x86_64.iso&tr=udp://tracker.archlinux.org:6969&tr=http://tracker.archlinux.org:6969/announce" target="_blank"> magnet ISO ArchLinux </a> </p>
 
 <b>Verificar a assinatura da imagem ISO</b>
 
@@ -17,7 +17,8 @@ questions:
 $ gpg --keyserver-options auto-key-retrieve --verify archlinux-versão-x86_64.iso.sig
 </code>
 
-OU a partir de uma instalação existente
+<p>OU a partir de uma instalação existente</p>
+
 <code>
 $ pacman-key -v archlinux-versão-x86_64.iso.sig
 </code>
@@ -189,7 +190,7 @@ Saitam
 </pre>
 
 
-<b>Initramfs</p>
+<b>Initramfs</b>
 
 <p>Criar um novo initramfs geralmente não é necessário, porque mkinitcpio foi executado na instalação do pacote de kernel com pacstrap.</p>
 
@@ -216,4 +217,8 @@ Saitam
 <p>Saia de ambiente chroot digitando exit ou pressionando Ctrl+D. </p>   
 '
     image: "posts/archlinux-install.png"
+
+<b>Referência:</b>
+
+<a href="https://wiki.archlinux.org/index.php/Installation_guide" target="_blank"> Wiki instalação do ArchLinux </a>
 ---
