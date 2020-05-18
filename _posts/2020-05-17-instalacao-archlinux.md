@@ -215,10 +215,12 @@ Saitam
 <b>Reincie</b>
 
 <p>Saia de ambiente chroot digitando exit ou pressionando Ctrl+D. </p>   
-'
-    image: "posts/archlinux-install.png"
 
 <b>Referência:</b>
 
 <a href="https://wiki.archlinux.org/index.php/Installation_guide" target="_blank"> Wiki instalação do ArchLinux </a>
+'
+    image: "posts/archlinux-install.png"
+
+
 ---
