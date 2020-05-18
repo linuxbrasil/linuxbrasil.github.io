@@ -87,11 +87,11 @@ questions:
         # cfdisk /dev/sda 
         </code>
 
-        <pre>
-        /boot/efi de 100MB
-        / de 20GB
+        <p>
+        /boot/efi de 100MB <br>
+        / de 20GB <br>
         /home restante do espaço
-        </pre>
+        </p>
 
         <b>Formatação das partições criadas</b>
 
@@ -217,9 +217,9 @@ questions:
 
         <p>Saia de ambiente chroot digitando exit ou pressionando Ctrl+D. </p>   
 
-        <b>Referência:</b>
+        <b>Referência:</b> <br>
 
-        <a href="https://wiki.archlinux.org/index.php/Installation_guide" target="_blank"> Wiki instalação do ArchLinux </a>
+        <a href="https://wiki.archlinux.org/index.php/Installation_guide" target="_blank"> Wiki instalação do ArchLinux </a> <br>
 
         Feito!
     '
