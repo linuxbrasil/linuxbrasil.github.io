@@ -97,7 +97,7 @@ questions:
 
     <code>
     # mkfs.ext4 /dev/sda1 (/boot/efi)
-    <code>
+    </code>
 
     <code>
     # mkfs.ext4 /dev/sda2 (/)
@@ -105,7 +105,7 @@ questions:
 
     <code>
     # mkfs.ext4 /dev/sda3 (/home)
-    <code>
+    </code>
 
     <b>Montar o sistema de arquivo</b>
 
@@ -158,25 +158,25 @@ questions:
     </code>
 
     <p>Crie o arquivo locale.conf e defina a variável LANG adequadamente:</code>
-    <pre>
+    <code>
     /etc/locale.conf
     LANG=pt_BR.UTF-8
-    </pre>
+    </code>
 
     <p>Se você definir o layout do teclado, torne as alterações persistentes em vconsole.conf:</p>
-    <pre>
+    <code>
     /etc/vconsole.conf
     KEYMAP=br-abnt2
-    </pre>
+    </code>
 
     <b>Crie o arquivo hostname:</b>
 
     <code>
     # vim /etc/hostname
     </code>
-    <pre>
+    <code>
     Saitam
-    </pre>
+    </code>
 
     <p>Adicione entradas correspondentes ao hosts</p>
 
@@ -184,11 +184,11 @@ questions:
     # vim /etc/hosts
     </code>
 
-    <pre>
+    <code>
     127.0.0.1	localhost.localdomain	localhost
     ::1		localhost.localdomain	localhost
     127.0.1.1	meuhostname.localdomain	Saitam
-    </pre>
+    </code>
 
 
     <b>Initramfs</b>
